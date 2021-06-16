@@ -56,5 +56,39 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 ## Más informacion
 
+<<<<<<< HEAD
 Echo por Carlos Adrian Soto Botero.
 Se elimina la ultima linea
+=======
+Añadir el reposiotio remoto al local
+
+git remote add origin https://github.com/sotobotero/devops_udemy.git
+
+Enviar los cambiso al repositorio remoto
+
+git push -u origin master 
+Crear un nuevo branch
+
+git branch feacture/cs-2356847 master 
+
+Cambiarse a la nueva branch
+
+git checkout feacture/cs-2356847 
+
+Actualizar el branch actual(el seleccionado) desde el branch master
+
+ git pull origin master 
+Inicializar el repositorio 
+
+git flow init
+
+Crear una rama de caracteristica
+
+git flow feature start cd32658
+
+Eliminar la caracteristica
+
+git flow feature finish cd32658 
+
+>Fin....
+>>>>>>> fe84c65f5d489283bc774edaa060527931c8c8bf
