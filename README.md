@@ -55,6 +55,13 @@ Dichas pruebas se lanzan de manera automática.
 Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
 
 ## Más informacion
+<<<<<< feature/dc-15062021
+Añadir el reposiotio remoto al local
+
+git remote add origin https://github.com/sotobotero/devops_udemy.git
+
+=======
+>>>>>>> master
 Enviar los cambiso al repositorio remoto
 
 git push -u origin master 
