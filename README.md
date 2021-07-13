@@ -86,4 +86,3 @@ Eliminar la caracteristica
 git flow feature finish cd32658 
 
 >Fin....
->>>>>>> fe84c65f5d489283bc774edaa060527931c8c8bf
